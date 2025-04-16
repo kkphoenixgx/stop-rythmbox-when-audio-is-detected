@@ -1,0 +1,1 @@
+# stop-rythmbox-when-audio-is-detected
